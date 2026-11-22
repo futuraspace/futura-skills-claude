@@ -1,0 +1,8 @@
+{
+  "name": "futura-skills-claude",
+  "owner": { "name": "Futura Space" },
+  "plugins": [
+    { "name": "cowboy-button", "source": "./plugins/cowboy-button", "description": "Botón Cowboy: optimiza el prompt y pide a Claude que haga las preguntas necesarias" },
+    { "name": "futura-skills", "source": "./plugins/futura-skills", "description": "Skills de Claude para Futura Space (incluye /cowboy)" }
+  ]
+}
